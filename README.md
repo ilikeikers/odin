@@ -1,6 +1,8 @@
 # odin
 documenting Odin-Lang learning journey
 
+https://odin-lang.org/
+
 Current learning project. Working through the 2022 Advent of Code using Odin-Lang. 
 
 Took a quick break to get my website up and running.
