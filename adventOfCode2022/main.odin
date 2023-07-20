@@ -5,9 +5,9 @@ import "core:runtime"
 import "core:strings"
 import "core:math"
 import "core:c/libc"
+
 // 2022 Advent of Code Day 01
 // Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
-
 day_01 :: proc() {
 
     elf_calories := [dynamic]int{1000, 2000, 3000, 0, 4000, 0, 5000, 6000, 0, 7000, 8000, 9000, 0, 10000}
