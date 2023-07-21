@@ -23,7 +23,6 @@ get_calorie_list :: proc(filepath: string) -> (calories_list: [dynamic]u64) {
         runtime.append_elem(&calories_list, calories)
 	}
 
-
     return calories_list
 }
 
